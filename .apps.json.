@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "name": "Instagram Plus",
+      "bundleID": "com.mohammed.insta",
+      "version": "1.0",
+      "down": "رابط_تحميل_ملف_الـ_IPA_هنا",
+      "icon": "رابط_صورة_الأيقونة_هنا",
+      "dev": "متجر محمد"
+    },
+    {
+      "name": "YouTube Pro",
+      "bundleID": "com.mohammed.youtube",
+      "version": "1.0",
+      "down": "رابط_تحميل_ملف_الـ_IPA_هنا",
+      "icon": "رابط_صورة_الأيقونة_هنا",
+      "dev": "متجر محمد"
+    }
+  ]
+}
